@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "updated": "2026-11-14",
+  "languages": [
+    {
+      "code": "it",
+      "name": "Italiano",
+      "dictionaries": [
+        {
+          "id": "it-scomparse",
+          "name": "Parole che scompaiono",
+          "description": "Parole italiane che si usano sempre meno: da riscoprire, un giorno alla volta.",
+          "attribution": "Definizioni ed esempi originali di One Word.",
+          "packs": [
+            {
+              "id": "it-scomparse-cultura-001",
+              "topic": "cultura",
+              "path": "it/scomparse/cultura-001.json",
+              "bytes": 17184,
+              "sha256": "376e9b4c31e9a95337d31bc471f359a301c65ebb1b224425c5bbf751065a4a27",
+              "count": 60,
+              "version": 1
+            },
+            {
+              "id": "it-scomparse-scienza-001",
+              "topic": "scienza",
+              "path": "it/scomparse/scienza-001.json",
+              "bytes": 15366,
+              "sha256": "d04742993ca839ddfd021b486c45c277b9ed51dcf18ecd44774770c1fafe0921",
+              "count": 60,
+              "version": 1
+            },
+            {
+              "id": "it-scomparse-emozioni-001",
+              "topic": "emozioni",
+              "path": "it/scomparse/emozioni-001.json",
+              "bytes": 14570,
+              "sha256": "ab0de814001a41d0b37a900af3d9d0fec170aff886f6a6b9521ccab194cbf3b9",
+              "count": 60,
+              "version": 1
+            },
+            {
+              "id": "it-scomparse-rare-001",
+              "topic": "rare",
+              "path": "it/scomparse/rare-001.json",
+              "bytes": 13702,
+              "sha256": "92dbdd066390223524078d24c56bde5cbecb1a2af2fee85b43f1436e089a4c63",
+              "count": 60,
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
