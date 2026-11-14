@@ -10,14 +10,14 @@
           "id": "it-scomparse",
           "name": "Parole che scompaiono",
           "description": "Parole italiane che si usano sempre meno: da riscoprire, un giorno alla volta.",
-          "attribution": "240 voci scritte da One Word; le altre dal Wikizionario (it.wiktionary.org), testi dei contributori del Wikizionario, licenza CC BY-SA 4.0.",
+          "attribution": "240 voci scritte da One Word; le altre, e gli accenti per la pronuncia, dal Wikizionario (it.wiktionary.org), testi dei contributori del Wikizionario, licenza CC BY-SA 4.0.",
           "packs": [
             {
               "id": "it-scomparse-cultura-001",
               "topic": "cultura",
               "path": "it/scomparse/cultura-001.json",
-              "bytes": 304596,
-              "sha256": "0fd5c388482ea90704840be13398aa1c4cd58983882eb62a36372273915e86ab",
+              "bytes": 329501,
+              "sha256": "899d464354b9eee0d3d2694966800898479a655a5dcaa85792bd636d950bea1f",
               "count": 1250,
               "version": 2
             },
@@ -25,8 +25,8 @@
               "id": "it-scomparse-scienza-001",
               "topic": "scienza",
               "path": "it/scomparse/scienza-001.json",
-              "bytes": 275821,
-              "sha256": "2c1bdd6172b014739d5d1773e789602c8cf356050f741713827671135b9da110",
+              "bytes": 301841,
+              "sha256": "c3071b0289e28f68e73cf2264ac00700aafc726fce6f27a5a0e8e59a455e64cd",
               "count": 1250,
               "version": 2
             },
@@ -34,8 +34,8 @@
               "id": "it-scomparse-emozioni-001",
               "topic": "emozioni",
               "path": "it/scomparse/emozioni-001.json",
-              "bytes": 294648,
-              "sha256": "a0c76fc704db50ef1d9c900c3f0d12b9bb37642319bcb0293a1050f9736f8f6e",
+              "bytes": 318977,
+              "sha256": "7000d68cc701df05c78b2848d2d6c24ae2a4825230af012e8177992f7a5aa375",
               "count": 1250,
               "version": 2
             },
@@ -43,8 +43,8 @@
               "id": "it-scomparse-rare-001",
               "topic": "rare",
               "path": "it/scomparse/rare-001.json",
-              "bytes": 310519,
-              "sha256": "2077be781255be626c72661ec31e1b612665ef4cabf1b0c3c87f22251f3125d5",
+              "bytes": 337015,
+              "sha256": "4e37b475e43c38095f76bc50cd97e95af81808921b7dabc173682c936a8f0c39",
               "count": 1250,
               "version": 2
             },
@@ -52,8 +52,8 @@
               "id": "it-scomparse-estinzione-001",
               "topic": "estinzione",
               "path": "it/scomparse/estinzione-001.json",
-              "bytes": 306114,
-              "sha256": "47eb21ff53908e04971be82c44eda81ae19bd31f876f721c5cc91a7804f0bff1",
+              "bytes": 331844,
+              "sha256": "4a76d91eb74b5f84d2dfff9327232d419c6dbe85fd937409ee1fdf65c0a3c42a",
               "count": 1250,
               "version": 2
             }
