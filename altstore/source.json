@@ -1,0 +1,39 @@
+{
+  "name": "One Word",
+  "identifier": "com.aleferro.oneword.source",
+  "subtitle": "Una parola al giorno",
+  "iconURL": "https://aleferroexe.github.io/one-word-data/altstore/icon.png",
+  "tintColor": "#8A6D3B",
+  "apps": [
+    {
+      "name": "One Word",
+      "bundleIdentifier": "com.aleferro.oneword",
+      "developerName": "One Word",
+      "subtitle": "Una parola italiana al giorno",
+      "localizedDescription": "Una parola italiana rara o in via di estinzione ogni giorno, con widget per la Home e la schermata di blocco. Versione privata: serve una password per attivarla.",
+      "iconURL": "https://aleferroexe.github.io/one-word-data/altstore/icon.png",
+      "tintColor": "#8A6D3B",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-14",
+          "downloadURL": "https://github.com/AleFerroExe/one-word-data/releases/download/altstore-1.0-1/OneWord.ipa",
+          "size": 4578263,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Prima versione AltStore: senza pubblicità, con blocco a password."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "Serve solo a mostrarti annunci più pertinenti. Gli annunci finanziano One Word, che resta gratuita."
+        }
+      }
+    }
+  ],
+  "news": []
+}
